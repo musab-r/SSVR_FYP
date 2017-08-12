@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project[Orignal Kinect].CSharp.Plugins", "New Unity Project[Orignal Kinect].CSharp.Plugins.csproj", "{0CAB4841-FBE5-63F3-D806-0EF2B328817C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project[Orignal Kinect].CSharp", "New Unity Project[Orignal Kinect].CSharp.csproj", "{FF2351E4-9304-F2B8-2213-254C33912A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project[Orignal Kinect].CSharp.Editor.Plugins", "New Unity Project[Orignal Kinect].CSharp.Editor.Plugins.csproj", "{E04AE328-FE98-9C5A-E0C7-7CD314CC7BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project[Orignal Kinect].CSharp.Editor", "New Unity Project[Orignal Kinect].CSharp.Editor.csproj", "{5A0D7BAE-1F68-0540-17F2-9BE497D9006A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAB4841-FBE5-63F3-D806-0EF2B328817C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAB4841-FBE5-63F3-D806-0EF2B328817C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAB4841-FBE5-63F3-D806-0EF2B328817C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAB4841-FBE5-63F3-D806-0EF2B328817C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2351E4-9304-F2B8-2213-254C33912A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2351E4-9304-F2B8-2213-254C33912A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2351E4-9304-F2B8-2213-254C33912A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2351E4-9304-F2B8-2213-254C33912A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04AE328-FE98-9C5A-E0C7-7CD314CC7BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04AE328-FE98-9C5A-E0C7-7CD314CC7BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04AE328-FE98-9C5A-E0C7-7CD314CC7BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04AE328-FE98-9C5A-E0C7-7CD314CC7BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0D7BAE-1F68-0540-17F2-9BE497D9006A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0D7BAE-1F68-0540-17F2-9BE497D9006A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0D7BAE-1F68-0540-17F2-9BE497D9006A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0D7BAE-1F68-0540-17F2-9BE497D9006A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
