@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 095bf78b5af19fb4eaa8543221a19b73
+timeCreated: 1483004114
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 1000010906937954, guid: 61ad7dffddfae9845bf7dee36475ea39, type: 2}
+  - bullethole: {instanceID: 0}
+  - recoil: {instanceID: 0}
+  - flash: {instanceID: 0}
+  - plane: {instanceID: 0}
+  - plane1: {instanceID: 0}
+  - plane2: {instanceID: 0}
+  - head1: {instanceID: 0}
+  - head2: {instanceID: 0}
+  - head3: {instanceID: 0}
+  - body1: {instanceID: 0}
+  - body2: {instanceID: 0}
+  - body3: {instanceID: 0}
+  - lower1: {instanceID: 0}
+  - lower2: {instanceID: 0}
+  - lower3: {instanceID: 0}
+  - target: {instanceID: 0}
+  - target1: {instanceID: 0}
+  - target2: {instanceID: 0}
+  - anim2: {instanceID: 0}
+  - anim3: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

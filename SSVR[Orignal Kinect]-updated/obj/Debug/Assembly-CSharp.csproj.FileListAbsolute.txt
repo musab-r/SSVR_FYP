@@ -1,0 +1,55 @@
+G:\Unity Projects\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+G:\Unity Projects\New Unity Project\obj\Debug\Assembly-CSharp.dll
+G:\Unity Projects\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+G:\Unity Projects\New Unity Project\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Zaid\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Zaid\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+D:\New Unity Project[Orignal Kinect]-updated\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\New Unity Project[Orignal Kinect]-updated\obj\Debug\Assembly-CSharp.dll
+D:\New Unity Project[Orignal Kinect]-updated\obj\Debug\Assembly-CSharp.pdb
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\obj\Debug\Assembly-CSharp.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Google.ProtocolBuffers.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\LZ4Sharp.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEditor.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEngine.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Mono.Cecil.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Unity.DataContract.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEngine.xml
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEditor.xml
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Unity Projects\New Unity Project[Orignal Kinect]-updated\obj\Debug\Assembly-CSharp.pdb
